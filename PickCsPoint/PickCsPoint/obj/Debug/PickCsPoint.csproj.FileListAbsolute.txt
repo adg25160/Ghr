@@ -1,0 +1,5 @@
+C:\Users\Jeff\source\repos\PickCsPoint\PickCsPoint\bin\PickCsPoint.dll
+C:\Users\Jeff\source\repos\PickCsPoint\PickCsPoint\bin\PickCsPoint.pdb
+C:\Users\Jeff\source\repos\PickCsPoint\PickCsPoint\obj\Debug\PickCsPoint.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\PickCsPoint\PickCsPoint\obj\Debug\PickCsPoint.dll
+C:\Users\Jeff\source\repos\PickCsPoint\PickCsPoint\obj\Debug\PickCsPoint.pdb

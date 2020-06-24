@@ -1,0 +1,10 @@
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\bin\Debug\InlaCsLayout.dll
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\bin\Debug\InlaCsLayout.pdb
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\MainWindow.g.cs
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout_MarkupCompile.cache
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout_MarkupCompile.lref
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\MainWindow.baml
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout.g.resources
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout.dll
+C:\Users\Jeff\source\repos\MyProject3\InlaCsLayout\obj\Debug\InlaCsLayout.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jeff\source\repos\PickPoints\PickPoints\bin\PickPoints.dll
+C:\Users\Jeff\source\repos\PickPoints\PickPoints\bin\PickPoints.pdb
+C:\Users\Jeff\source\repos\PickPoints\PickPoints\obj\Debug\PickPoints.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\PickPoints\PickPoints\obj\Debug\PickPoints.dll
+C:\Users\Jeff\source\repos\PickPoints\PickPoints\obj\Debug\PickPoints.pdb

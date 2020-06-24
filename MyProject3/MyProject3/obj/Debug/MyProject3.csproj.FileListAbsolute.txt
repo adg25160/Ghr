@@ -1,0 +1,10 @@
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\bin\MyProject3.dll
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\bin\MyProject3.pdb
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.dll
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3_MarkupCompile.cache
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3_MarkupCompile.lref
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\View\MainWindow.baml
+C:\Users\Jeff\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.g.resources
